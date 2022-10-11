@@ -5,9 +5,9 @@ Enunciado: Realiza una programa que calcule las horas transcurridas entre dos ho
 
 ## Etapa 2. Especificaciones
 1. Entrada:
-  - Variables String: diaInicio, diaFinal
-  - Variables int: horaInicio, horaFinal
-  - opcional: Datos del usuario (nombre, apellidos, etc.)
+  * Variables String: diaInicio, diaFinal
+  * Variables int: horaInicio, horaFinal
+  * opcional: Datos del usuario (nombre, apellidos, etc.)
 2. Proceso:
   - Diferencia de horas del día posterior menos el día anterior.
 3. Salida:
@@ -24,4 +24,7 @@ Enunciado: Realiza una programa que calcule las horas transcurridas entre dos ho
   ~~~
   
   ## Etapa 3. Diseño de la solución
-  
+  ![](https://github.com/edgardegantea/T3A2_FundamentosDeProgramaci-n_2022/blob/main/T3A2.png)
+
+
+## Etapa 4. Desarrollo de la solución
